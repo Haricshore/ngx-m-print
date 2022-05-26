@@ -1,0 +1,20 @@
+{
+  "name": "ngx-m-print",
+  "version": "0.0.9",
+  "author": {"name": "Hari Haran", "email": "haricshore@gmail.com"},
+  "peerDependencies": {
+    "@angular/common": "^13.3.0",
+    "@angular/core": "^13.3.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "keywords": [
+    "print",
+    "angular",
+    "library",
+    "component",
+    "ng-print",
+    "angular-print"
+  ]
+}
